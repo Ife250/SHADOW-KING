@@ -1,6 +1,6 @@
 {
-    "name": "SHADOW-SIR",
-    "description": "SHADOW-SIR is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "SHADOW-KING",
+    "description": "SHADOW-KING is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Ajmal-Achu/Nandhutty_v2",
@@ -59,7 +59,7 @@
         "HANDLERS": {
             "description": "For commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "^[.!;-]"
         },
         "FULL_EVA": {
             "description": "Turn your account into a chatbot!",
@@ -98,7 +98,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "hear me friends"
+            "value": "summoning justu"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -123,10 +123,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏SHADOW-SIR⤎╾━━━•"
+            "value": "•━━━━╼⤏SHADOW-KING⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "SHADOW-SIR Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "SHADOW-KING Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
