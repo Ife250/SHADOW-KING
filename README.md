@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="1636572396969.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="SHADOW-SIR" src="https://img.shields.io/badge/SHADOW-SIR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SHADOW-KING" src="https://img.shields.io/badge/SHADOW-KING-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SKBAMODZ"><img title="Author" src="https://img.shields.io/badge/Author-SKBAMODZ/SHADOW-SIR?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ife250"><img title="Author" src="https://img.shields.io/badge/Author-kingsley/SHADOW-SIR?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SKBAMODZ">SKBAMODZ</a> to make it public
+Project created by <a href="https://github.com/Ife250">kingsley</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/SKBAMODZ">SKBAMODZ</a> to make it
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SKBAMODZ/SHADOW-SIR) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ife250/SHADOW-KING) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/SKBAMODZ">SKBAMODZ</a> to make it
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/SKBAMODZ/SHADOW-SIR
+$ git clone https://github.com/Ife250/SHADOW-KING
 $ cd SHADOW-SIR
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/SKBAMODZ/SHADOW-SIR
-$ cd SHADOW-SIR
+$ git clone https://github.com/Ife250/SHADOW-KING
+$ cd SHADOW-KING
 $ npm i
 $ node julie.js
 ```
@@ -66,10 +66,10 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IDZRRpcy0ZpLCetx1I9rFt)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SKBAMODZ&repo=SHADOW-SIR&theme=nightowl)](https://github.com/SKBAMODZ/SHADOW-SIR)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ife250&repo=SHADOW-KING&theme=nightowl)](https://github.com/Ife250/SHADOW-KING)
   </div>
     
 ### ⚠️ Warning! 
@@ -82,15 +82,15 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`SKBAMODZ`](github.com/SKBAMODZ)
+* [`kingsley`](github.com/Ife250)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![SKBAMODZ](https://github.com/SKBAMODZ.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![kingsley](https://github.com/ife250.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [SKBAMODZ](https://github.com/SKBAMODZ) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [kingsley](https://github.com/Ife250) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
